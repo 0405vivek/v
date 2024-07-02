@@ -1,0 +1,51 @@
+/* syne-regular - latin */
+
+@font-face {
+    font-display: satoshi-black; 
+    font-family: 'satoshi-black';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Satoshi-Black.otf)
+}
+
+@font-face { 
+    font-display: satoshi-bold; 
+    font-family: 'satoshi-bold';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/Satoshi-Bold.otf)
+    
+}
+
+@font-face { 
+    font-display: satoshi-light; 
+    font-family: 'satoshi-light';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url(../fonts/Satoshi-Light.otf)
+    
+}
+@font-face { 
+    font-display: satoshi-medium; 
+    font-family: 'satoshi-medium';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url(../fonts/Satoshi-Medium.otf)
+    
+}
+@font-face { 
+    font-display: satoshi-regular; 
+    font-family: 'satoshi-regular';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url(../fonts/Satoshi-Regular.otf)
+    
+}
+@font-face { 
+    font-display: satoshi-variable; 
+    font-family: 'satoshi-variable';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url(../fonts/Satoshi-Variable.ttf)
+    
+}
